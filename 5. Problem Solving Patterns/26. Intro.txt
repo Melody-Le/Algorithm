@@ -1,0 +1,11 @@
+HOw do you improve:
+1. Devise a plan for solving problems
+2. Master common problem solving patterns
+* Some Paterns:
+  - Freuency Counter 
+  - Multiple Pointers
+  - Sliding Window
+  - Divide and Conquer
+  - Dynamic Programming
+  - Greedy ALgorithms
+  - Backtracking
