@@ -1,0 +1,4 @@
+/*
+This pattern involes creating a window which can either be an array or number from one position to another.
+
+*/
