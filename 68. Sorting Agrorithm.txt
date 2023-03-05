@@ -1,0 +1,2 @@
+What is Sorting?
+is the process of rearranging the items in a collection ( ex. array) so that the items are in some kind of order
