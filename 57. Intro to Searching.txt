@@ -1,0 +1,36 @@
+57. Intro to Searching
+Objectie:
+1. Describe what a searching algorithm is
+2. Implement linear search on arrays
+3. Implement binary search on Sorted array
+4. Implement a naive string searching algorithm
+5. Implement the KMP string searching algorithm
+-----------------------------------------------------------------------------------
+58. Introduce Linear Search
+Javascript jas search!
+  indexOf
+  includes
+  findIndex
+They are Linear search, go from 1 direction, check every element 
+
+--------------------------------------------------------------------------------------
+
+60. Linear Search Big O
+
+O(1) ----------- O(n) ------------------ O(n)
+Best            Average                 Worst
+
+----------------------------------------------------------------------------------------
+
+61. Intro to BINARY Search
+- Much faster form of search
+- eliminate Half od the remaining elm at a Time
+- Only works on sorted arrays
+
+The Idea of Binary Search is DIVIDE & CONQUER
+
+----------------------------------------------------------------------------------------
+64. BINARY  Search Big O
+
+    O(log n) ---------------O(1)
+Worst and Average           Best
